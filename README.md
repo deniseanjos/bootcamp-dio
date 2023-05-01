@@ -1,8 +1,6 @@
 # Bootcamp DIO - Digital Innovation One
 
-Bem-vinde ao meu GitHub!
-
-Neste repositório você encontrará algumas atividades iniciais desenvolvidas nos bootcamps disponibilizados na plataforma da DIO - Digital Innovation One.
+Atividades iniciais desenvolvidas nos bootcamps disponibilizados na plataforma da DIO - Digital Innovation One.
 
 <u>Resumo sobre os projetos:</u>
 
